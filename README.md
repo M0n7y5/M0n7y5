@@ -1,8 +1,4 @@
-<center>
- 
-![](/logo.svg)
-
-</center>
+<img align="center" src="https://raw.githubusercontent.com/M0n7y5/M0n7y5/master/logo.svg" width=100% height=400px>
 
 ![](https://i.imgur.com/PoXZ0ox.gif)
 
