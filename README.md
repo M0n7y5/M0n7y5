@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/M0n7y5/M0n7y5/master/logo.svg" width=100%>
+<img align="center" src="https://raw.githubusercontent.com/M0n7y5/M0n7y5/master/logo.svg" width=100% sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
 
 ![](https://i.imgur.com/PoXZ0ox.gif)
 
