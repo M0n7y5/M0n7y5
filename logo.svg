@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg fill="none" viewBox="0 0 1600 800" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none"  width="100%" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
 
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -281,8 +281,12 @@
                         opacity: 0.25;
                     }
                 }
+
+                .mar {
+                    padding-top: 25px;
+                }
             </style>
-            <div class="container">
+            <div class="container mar" >
                 <h1>M0N7Y5</h1>
                 <h1>M0N7Y5</h1>
                 <h1>M0N7Y5</h1>
