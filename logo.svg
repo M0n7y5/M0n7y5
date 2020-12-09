@@ -1,10 +1,11 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg fill="none" viewBox="0 0 800 400" width="100%" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                @import url('https://fonts.googleapis.com/css2?family=Audiowide');
-                @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200');
-
+                @import url('https://fonts.googleapis.com/css2?family=Audiowide&amp;display=swap');
+                @import url('https://fonts.googleapis.com/css2?family=Gruppo&amp;display=swap');
+/* &amp; */
                 .container {
                     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
                     display: flex;
@@ -55,7 +56,7 @@
                     color: #fff;
                     font-size: 2em;
                     letter-spacing: 1px;
-                    font-family: 'JetBrains Mono', monospace;
+                    font-family: 'Gruppo', cursive;
                     font-weight: 50;
                     /*Create overlap*/
 
